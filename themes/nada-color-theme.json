@@ -23,15 +23,15 @@
     "gitDecoration.ignoredResourceForeground": "#6d757e",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#837a66",
-    "editor.selectionHighlightBackground": "#47E18A",
+    "editor.selectionHighlightBackground": "#3b4766e1",
     "editor.selectionBackground": "#3b4766e1",
     "editor.findMatchHighlightBackground": "#ff99ee69",
     "editor.findMatchHighlightBorder": "#ff99ee",
     "editor.findMatchBackground": "#67b9795e",
-    "editor.findMatchBorder": "#47E18A",
+    "editor.findMatchBorder": "#3b4766e1",
     "activityBar.background": "#212733",
     "activityBar.foreground": "#738699",
-    "activityBarBadge.background": "#67b979",
+    "activityBarBadge.background": "#3b4766e1",
     "activityBarBadge.foreground": "#1d232e",
     "badge.background": "#67b979",
     "badge.foreground": "#1d232e",
@@ -47,8 +47,9 @@
     "editor.rangeHighlightBackground": "#242B38",
     "editor.wordHighlightBackground": "#67b9794d",
     "editor.wordHighlightStrongBackground": "#67b9794d",
-    "editorBracketMatch.border": "#3D4752",
-    "editorCursor.foreground": "#67b979",
+    // "editorBracketMatch.border": "#7ac7d6",
+    "editorBracketMatch.border": "#738699",
+    "editorCursor.foreground": "#738699",
     "editorGroup.border": "#4a3534",
     "editorGroupHeader.noTabsBackground": "#1d232e",
     "editorGroupHeader.tabsBackground": "#1d232e",
@@ -165,11 +166,11 @@
     "terminal.background": "#1d232e",
     "terminal.foreground": "#D9D7CE",
     "terminal.border": "#343D4A",
-    "terminalCursor.foreground": "#67b979",
+    "terminalCursor.foreground": "#738699",
     "terminal.selectionBackground": "#3b47668c",
     "textBlockQuote.background": "#272D38",
-    "textLink.activeForeground": "#67b979",
-    "textLink.foreground": "#67b979",
+    "textLink.activeForeground": "#3b4766e1",
+    "textLink.foreground": "#3b4766e1",
     "textPreformat.foreground": "#D9D7CE",
     "titleBar.activeBackground": "#1d232e",
     "titleBar.activeForeground": "#738699",
@@ -716,7 +717,8 @@
         "meta.tag meta.embedded.expression string"
       ],
       "settings": {
-        "foreground": "#53C88C"
+        // "foreground": "#53C88C"
+        "foreground": "#738699"
       }
     },
     {
